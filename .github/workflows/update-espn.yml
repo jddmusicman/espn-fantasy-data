@@ -30,12 +30,66 @@ jobs:
             https://fantasy.winnresources.com/players \
             -o players.json
 
+      - name: Create compact roster summary
+        run: |
+          python3 <<'PY'
+          import json
+
+          with open("rosters.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          summary = []
+
+          members = {
+              m["id"]: m
+              for m in data.get("members", [])
+          }
+
+          for team in data.get("teams", []):
+              owner_id = team.get("primaryOwner")
+              owner = members.get(owner_id, {})
+
+              players = []
+
+              for entry in team.get("roster", {}).get("entries", []):
+                  p = entry.get("playerPoolEntry", {}).get("player", {})
+
+                  players.append({
+                      "id": p.get("id"),
+                      "name": p.get("fullName"),
+                      "positionId": p.get("defaultPositionId"),
+                      "proTeamId": p.get("proTeamId"),
+                      "injuryStatus": p.get("injuryStatus"),
+                      "lineupSlotId": entry.get("lineupSlotId")
+                  })
+
+              summary.append({
+                  "teamId": team.get("id"),
+                  "teamName": (
+                      f"{team.get('location', '')} "
+                      f"{team.get('nickname', '')}"
+                  ).strip(),
+                  "owner": (
+                      owner.get("displayName")
+                      or owner.get("firstName")
+                      or owner_id
+                  ),
+                  "record": team.get("record", {}).get("overall", {}),
+                  "players": players
+              })
+
+          with open("summary.json", "w", encoding="utf-8") as f:
+              json.dump(summary, f, indent=2)
+
+          print(f"Created summary.json for {len(summary)} teams")
+          PY
+
       - name: Commit updated data
         run: |
           git config user.name "ESPN Fantasy Updater"
           git config user.email "actions@github.com"
 
-          git add league.json rosters.json players.json
+          git add league.json rosters.json players.json summary.json
 
           if git diff --cached --quiet; then
             echo "No changes."
