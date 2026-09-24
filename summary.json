@@ -320,7 +320,7 @@
         "name": "Malik Nabers",
         "positionId": 3,
         "proTeamId": 19,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -498,7 +498,7 @@
         "name": "Jaxson Dart",
         "positionId": 1,
         "proTeamId": 19,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 0
       },
       {
