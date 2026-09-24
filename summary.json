@@ -1126,14 +1126,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16024,
-        "name": "Chargers D/ST",
-        "positionId": 16,
-        "proTeamId": 24,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 2473037,
         "name": "Jason Myers",
         "positionId": 5,
@@ -1156,6 +1148,14 @@
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": -16025,
+        "name": "49ers D/ST",
+        "positionId": 16,
+        "proTeamId": 25,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
