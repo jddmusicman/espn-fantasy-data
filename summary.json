@@ -64,14 +64,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4429205,
-        "name": "Jordan Addison",
-        "positionId": 3,
-        "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": -16023,
         "name": "Steelers D/ST",
         "positionId": 16,
@@ -140,6 +132,14 @@
         "name": "Kaelon Black",
         "positionId": 2,
         "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4428850,
+        "name": "Dontayvion Wicks",
+        "positionId": 3,
+        "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
