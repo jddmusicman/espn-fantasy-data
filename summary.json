@@ -668,7 +668,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -806,7 +806,7 @@
         "name": "Rico Dowdle",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1350,7 +1350,7 @@
         "name": "Nico Collins",
         "positionId": 3,
         "proTeamId": 34,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
