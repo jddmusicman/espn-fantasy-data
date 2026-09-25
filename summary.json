@@ -392,7 +392,7 @@
         "name": "Aaron Jones Sr.",
         "positionId": 2,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1391,7 +1391,7 @@
         "positionId": 2,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4036133,
@@ -1439,7 +1439,7 @@
         "positionId": 4,
         "proTeamId": 14,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 3929645,
