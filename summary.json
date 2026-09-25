@@ -117,7 +117,7 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 2976212,
@@ -125,7 +125,7 @@
         "positionId": 3,
         "proTeamId": 28,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4702555,
@@ -977,7 +977,7 @@
         "positionId": 3,
         "proTeamId": 10,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 3676833,
@@ -1001,7 +1001,7 @@
         "positionId": 3,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4569371,
@@ -1102,14 +1102,6 @@
         "lineupSlotId": 6
       },
       {
-        "id": 4362249,
-        "name": "Jayden Reed",
-        "positionId": 3,
-        "proTeamId": 9,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3046439,
         "name": "Hunter Henry",
         "positionId": 4,
@@ -1156,6 +1148,14 @@
         "proTeamId": 25,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4613202,
+        "name": "Kyle Williams",
+        "positionId": 3,
+        "proTeamId": 17,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -1521,7 +1521,7 @@
         "positionId": 1,
         "proTeamId": 3,
         "injuryStatus": "DOUBTFUL",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 3953687,
@@ -1545,7 +1545,7 @@
         "positionId": 1,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": -16014,
