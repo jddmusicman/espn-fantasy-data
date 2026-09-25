@@ -134,6 +134,14 @@
         "proTeamId": 7,
         "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 4696044,
+        "name": "Kaelon Black",
+        "positionId": 2,
+        "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
