@@ -368,7 +368,7 @@
         "name": "Alec Pierce",
         "positionId": 3,
         "proTeamId": 11,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
