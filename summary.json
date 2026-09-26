@@ -1066,7 +1066,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -1252,7 +1252,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 6
       },
       {
