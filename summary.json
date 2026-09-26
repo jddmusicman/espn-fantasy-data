@@ -716,7 +716,7 @@
         "name": "Cairo Santos",
         "positionId": 5,
         "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
       },
       {
@@ -1528,7 +1528,7 @@
         "name": "Caleb Williams",
         "positionId": 1,
         "proTeamId": 3,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
