@@ -1018,6 +1018,14 @@
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
+      },
+      {
+        "id": 4596334,
+        "name": "Keaton Mitchell",
+        "positionId": 2,
+        "proTeamId": 24,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
