@@ -538,7 +538,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -620,7 +620,7 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
