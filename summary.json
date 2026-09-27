@@ -344,7 +344,7 @@
         "name": "DJ Moore",
         "positionId": 3,
         "proTeamId": 2,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -798,7 +798,7 @@
         "name": "Jaylen Warren",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -1122,7 +1122,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1236,7 +1236,7 @@
         "name": "Michael Pittman Jr.",
         "positionId": 3,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
