@@ -620,7 +620,7 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -750,7 +750,7 @@
         "name": "De'Von Achane",
         "positionId": 2,
         "proTeamId": 15,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
