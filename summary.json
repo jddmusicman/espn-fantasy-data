@@ -142,6 +142,14 @@
         "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 2973405,
+        "name": "Kalif Raymond",
+        "positionId": 3,
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
