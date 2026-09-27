@@ -125,7 +125,7 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 21
       },
       {
         "id": 4696044,
@@ -822,7 +822,7 @@
         "name": "Mark Andrews",
         "positionId": 4,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
