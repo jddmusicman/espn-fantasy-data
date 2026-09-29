@@ -20,7 +20,7 @@
         "name": "Puka Nacua",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -732,7 +732,7 @@
         "name": "Caleb Douglas",
         "positionId": 3,
         "proTeamId": 15,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       }
     ]
@@ -790,7 +790,7 @@
         "name": "Jayden Daniels",
         "positionId": 1,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -814,7 +814,7 @@
         "name": "Rico Dowdle",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 6
       },
       {
@@ -1366,7 +1366,7 @@
         "name": "Nico Collins",
         "positionId": 3,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1544,7 +1544,7 @@
         "name": "Caleb Williams",
         "positionId": 1,
         "proTeamId": 3,
-        "injuryStatus": "OUT",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 20
       },
       {
