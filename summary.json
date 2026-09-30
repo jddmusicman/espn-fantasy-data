@@ -660,7 +660,7 @@
         "name": "Jadarian Price",
         "positionId": 2,
         "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1032,7 +1032,7 @@
         "name": "Keaton Mitchell",
         "positionId": 2,
         "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       }
     ]
@@ -1082,7 +1082,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
