@@ -1102,14 +1102,6 @@
         "lineupSlotId": 0
       },
       {
-        "id": 4432708,
-        "name": "Marvin Harrison Jr.",
-        "positionId": 3,
-        "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4047650,
         "name": "DK Metcalf",
         "positionId": 3,
@@ -1178,6 +1170,14 @@
         "name": "Kyle Williams",
         "positionId": 3,
         "proTeamId": 17,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 3912547,
+        "name": "Sam Darnold",
+        "positionId": 1,
+        "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
