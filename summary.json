@@ -754,14 +754,6 @@
     },
     "players": [
       {
-        "id": 4429160,
-        "name": "De'Von Achane",
-        "positionId": 2,
-        "proTeamId": 15,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 2
-      },
-      {
         "id": 4262921,
         "name": "Justin Jefferson",
         "positionId": 3,
@@ -866,20 +858,28 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16009,
-        "name": "Packers D/ST",
-        "positionId": 16,
-        "proTeamId": 9,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4685720,
         "name": "Bryce Young",
         "positionId": 1,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": -16002,
+        "name": "Bills D/ST",
+        "positionId": 16,
+        "proTeamId": 2,
+        "injuryStatus": null,
+        "lineupSlotId": 16
+      },
+      {
+        "id": 4711533,
+        "name": "Ollie Gordon II",
+        "positionId": 2,
+        "proTeamId": 15,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
       }
     ]
   },
