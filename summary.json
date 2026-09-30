@@ -700,7 +700,7 @@
         "name": "Chris Godwin Jr.",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -774,7 +774,7 @@
         "name": "Zay Flowers",
         "positionId": 3,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1374,7 +1374,7 @@
         "name": "Bucky Irving",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
