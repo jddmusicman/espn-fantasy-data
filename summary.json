@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "DOUBTFUL",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 16800,
@@ -645,7 +645,7 @@
         "positionId": 3,
         "proTeamId": 24,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 4
+        "lineupSlotId": 23
       },
       {
         "id": 3915511,
@@ -656,20 +656,12 @@
         "lineupSlotId": 0
       },
       {
-        "id": 4685512,
-        "name": "Jadarian Price",
-        "positionId": 2,
-        "proTeamId": 26,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4572680,
         "name": "Tucker Kraft",
         "positionId": 4,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 3916433,
@@ -693,14 +685,6 @@
         "positionId": 2,
         "proTeamId": 28,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 3116165,
-        "name": "Chris Godwin Jr.",
-        "positionId": 3,
-        "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -734,6 +718,22 @@
         "proTeamId": 15,
         "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 5083315,
+        "name": "Kenyon Sadiq",
+        "positionId": 4,
+        "proTeamId": 20,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 6
+      },
+      {
+        "id": 4430191,
+        "name": "Skyy Moore",
+        "positionId": 3,
+        "proTeamId": 9,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 4
       }
     ]
   },
