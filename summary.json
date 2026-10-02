@@ -767,7 +767,7 @@
         "positionId": 3,
         "proTeamId": 6,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4429615,
@@ -775,14 +775,14 @@
         "positionId": 3,
         "proTeamId": 33,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4426348,
         "name": "Jayden Daniels",
         "positionId": 1,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -839,7 +839,7 @@
         "positionId": 2,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4695883,
@@ -879,7 +879,7 @@
         "positionId": 2,
         "proTeamId": 15,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       }
     ]
   },
