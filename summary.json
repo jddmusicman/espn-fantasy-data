@@ -498,7 +498,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -546,7 +546,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1544,7 +1544,7 @@
         "name": "Caleb Williams",
         "positionId": 1,
         "proTeamId": 3,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
