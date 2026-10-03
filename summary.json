@@ -498,7 +498,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 4
       },
       {
@@ -759,7 +759,7 @@
         "positionId": 3,
         "proTeamId": 16,
         "injuryStatus": "OUT",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4426354,
@@ -767,7 +767,7 @@
         "positionId": 3,
         "proTeamId": 6,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4429615,
