@@ -352,7 +352,7 @@
         "name": "DJ Moore",
         "positionId": 3,
         "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -644,7 +644,7 @@
         "name": "Ladd McConkey",
         "positionId": 3,
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -676,7 +676,7 @@
         "name": "Kyle Monangai",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -790,7 +790,7 @@
         "name": "Lamar Jackson",
         "positionId": 1,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
@@ -904,7 +904,7 @@
         "name": "Rashee Rice",
         "positionId": 3,
         "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1382,7 +1382,7 @@
         "name": "Tee Higgins",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
