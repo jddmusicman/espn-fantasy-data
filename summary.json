@@ -498,7 +498,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -546,7 +546,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -628,7 +628,7 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 20
       },
       {
@@ -716,7 +716,7 @@
         "name": "Caleb Douglas",
         "positionId": 3,
         "proTeamId": 15,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -758,7 +758,7 @@
         "name": "Justin Jefferson",
         "positionId": 3,
         "proTeamId": 16,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -782,7 +782,7 @@
         "name": "Jayden Daniels",
         "positionId": 1,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -806,7 +806,7 @@
         "name": "Rico Dowdle",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -846,7 +846,7 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1082,7 +1082,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 6
       },
       {
