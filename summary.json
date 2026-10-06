@@ -1505,7 +1505,7 @@
         "positionId": 3,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4372016,
@@ -1513,7 +1513,7 @@
         "positionId": 3,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 4
       },
       {
         "id": 4431459,
@@ -1561,7 +1561,7 @@
         "positionId": 4,
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 3046779,
