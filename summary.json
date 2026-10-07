@@ -838,7 +838,7 @@
         "name": "Alvin Kamara",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1000,7 +1000,7 @@
         "name": "Cam Skattebo",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1552,7 +1552,7 @@
         "name": "Isaiah Likely",
         "positionId": 4,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
