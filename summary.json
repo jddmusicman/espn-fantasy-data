@@ -29,7 +29,7 @@
         "positionId": 2,
         "proTeamId": 21,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4431299,
@@ -61,7 +61,7 @@
         "positionId": 3,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": -16023,
@@ -136,20 +136,20 @@
         "lineupSlotId": 20
       },
       {
-        "id": 2973405,
-        "name": "Kalif Raymond",
-        "positionId": 3,
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4685247,
         "name": "Braelon Allen",
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
+      },
+      {
+        "id": 4431545,
+        "name": "Will Shipley",
+        "positionId": 2,
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
       }
     ]
   },
