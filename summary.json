@@ -246,7 +246,7 @@
         "name": "Tony Pollard",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -416,7 +416,7 @@
         "name": "Tyler Shough",
         "positionId": 1,
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
@@ -759,7 +759,7 @@
         "positionId": 3,
         "proTeamId": 16,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4426354,
@@ -767,7 +767,7 @@
         "positionId": 3,
         "proTeamId": 6,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 23
       },
       {
         "id": 4429615,
@@ -871,7 +871,7 @@
         "positionId": 2,
         "proTeamId": 15,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": -16030,
