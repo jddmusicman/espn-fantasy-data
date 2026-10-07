@@ -637,7 +637,7 @@
         "positionId": 3,
         "proTeamId": 14,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 23
       },
       {
         "id": 4612826,
@@ -645,7 +645,7 @@
         "positionId": 3,
         "proTeamId": 24,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 3915511,
@@ -661,7 +661,7 @@
         "positionId": 4,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 3916433,
@@ -693,15 +693,7 @@
         "positionId": 3,
         "proTeamId": 17,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": -16026,
-        "name": "Seahawks D/ST",
-        "positionId": 16,
-        "proTeamId": 26,
-        "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 4
       },
       {
         "id": 17427,
@@ -725,7 +717,7 @@
         "positionId": 4,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4430191,
@@ -734,6 +726,14 @@
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
+      },
+      {
+        "id": -16006,
+        "name": "Cowboys D/ST",
+        "positionId": 16,
+        "proTeamId": 6,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
