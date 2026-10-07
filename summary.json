@@ -109,15 +109,7 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 2976212,
-        "name": "Stefon Diggs",
-        "positionId": 3,
-        "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4702555,
@@ -128,20 +120,12 @@
         "lineupSlotId": 21
       },
       {
-        "id": 4428850,
-        "name": "Dontayvion Wicks",
-        "positionId": 3,
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4685247,
         "name": "Braelon Allen",
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4431545,
@@ -150,6 +134,22 @@
         "proTeamId": 21,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
+      },
+      {
+        "id": 16737,
+        "name": "Mike Evans",
+        "positionId": 3,
+        "proTeamId": 25,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4384852,
+        "name": "Dohnte Meyers",
+        "positionId": 3,
+        "proTeamId": 4,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -1252,7 +1252,7 @@
         "name": "Michael Pittman Jr.",
         "positionId": 3,
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
