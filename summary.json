@@ -783,7 +783,7 @@
         "positionId": 1,
         "proTeamId": 28,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 3916387,
@@ -791,7 +791,7 @@
         "positionId": 1,
         "proTeamId": 33,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4569987,
@@ -855,7 +855,7 @@
         "positionId": 3,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4685720,
@@ -866,20 +866,20 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16002,
-        "name": "Bills D/ST",
-        "positionId": 16,
-        "proTeamId": 2,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4711533,
         "name": "Ollie Gordon II",
         "positionId": 2,
         "proTeamId": 15,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
+      },
+      {
+        "id": -16030,
+        "name": "Jaguars D/ST",
+        "positionId": 16,
+        "proTeamId": 30,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
