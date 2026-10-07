@@ -684,7 +684,7 @@
         "name": "Jacory Croskey-Merritt",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -782,7 +782,7 @@
         "name": "Jayden Daniels",
         "positionId": 1,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
       },
       {
@@ -1528,7 +1528,7 @@
         "name": "D'Andre Swift",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
