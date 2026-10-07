@@ -980,14 +980,6 @@
         "lineupSlotId": 16
       },
       {
-        "id": 3150744,
-        "name": "Chase McLaughlin",
-        "positionId": 5,
-        "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 17
-      },
-      {
         "id": 4431268,
         "name": "Chimere Dike",
         "positionId": 3,
@@ -1034,6 +1026,14 @@
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 4567104,
+        "name": "Will Reichard",
+        "positionId": 5,
+        "proTeamId": 16,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
@@ -1418,14 +1418,6 @@
         "lineupSlotId": 6
       },
       {
-        "id": 4241463,
-        "name": "Jerry Jeudy",
-        "positionId": 3,
-        "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": -16021,
         "name": "Eagles D/ST",
         "positionId": 16,
@@ -1464,6 +1456,14 @@
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
+      },
+      {
+        "id": 4635008,
+        "name": "Keon Coleman",
+        "positionId": 3,
+        "proTeamId": 2,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -1530,14 +1530,6 @@
         "proTeamId": 3,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
-      },
-      {
-        "id": 4678008,
-        "name": "Jonathon Brooks",
-        "positionId": 2,
-        "proTeamId": 29,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
       },
       {
         "id": 4431611,
@@ -1609,6 +1601,14 @@
         "positionId": 2,
         "proTeamId": 5,
         "injuryStatus": "INJURY_RESERVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4887558,
+        "name": "Emanuel Wilson",
+        "positionId": 2,
+        "proTeamId": 26,
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
     ]
