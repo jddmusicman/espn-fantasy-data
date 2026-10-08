@@ -900,22 +900,6 @@
     },
     "players": [
       {
-        "id": 4428331,
-        "name": "Rashee Rice",
-        "positionId": 3,
-        "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4047646,
-        "name": "A.J. Brown",
-        "positionId": 3,
-        "proTeamId": 17,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 21
-      },
-      {
         "id": 4430737,
         "name": "Kyren Williams",
         "positionId": 2,
@@ -972,20 +956,12 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16017,
-        "name": "Patriots D/ST",
-        "positionId": 16,
-        "proTeamId": 17,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4431268,
         "name": "Chimere Dike",
         "positionId": 3,
         "proTeamId": 10,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 3676833,
@@ -1001,7 +977,7 @@
         "positionId": 2,
         "proTeamId": 19,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4361370,
@@ -1009,7 +985,7 @@
         "positionId": 3,
         "proTeamId": 18,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4569371,
@@ -1025,7 +1001,7 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4567104,
@@ -1034,6 +1010,22 @@
         "proTeamId": 16,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": 5081338,
+        "name": "Kaden Wetjen",
+        "positionId": 3,
+        "proTeamId": 23,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": -16020,
+        "name": "Jets D/ST",
+        "positionId": 16,
+        "proTeamId": 20,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
