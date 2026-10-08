@@ -246,7 +246,7 @@
         "name": "Tony Pollard",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1090,7 +1090,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1576,7 +1576,7 @@
         "name": "Gunnar Helm",
         "positionId": 4,
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
