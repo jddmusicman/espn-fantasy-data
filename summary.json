@@ -336,7 +336,7 @@
         "name": "Malik Nabers",
         "positionId": 3,
         "proTeamId": 19,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -976,7 +976,7 @@
         "name": "Cam Skattebo",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1544,7 +1544,7 @@
         "name": "Isaiah Likely",
         "positionId": 4,
         "proTeamId": 19,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
