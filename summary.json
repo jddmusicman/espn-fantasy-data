@@ -546,7 +546,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -684,7 +684,7 @@
         "name": "Jacory Croskey-Merritt",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -708,7 +708,7 @@
         "name": "Caleb Douglas",
         "positionId": 3,
         "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
