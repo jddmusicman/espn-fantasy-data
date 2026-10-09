@@ -140,7 +140,7 @@
         "name": "Mike Evans",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -328,7 +328,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
