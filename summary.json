@@ -28,7 +28,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1074,7 +1074,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1260,7 +1260,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
