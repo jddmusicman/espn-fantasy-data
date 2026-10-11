@@ -506,7 +506,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
@@ -644,7 +644,7 @@
         "name": "Ladd McConkey",
         "positionId": 3,
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
