@@ -506,7 +506,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -1406,7 +1406,7 @@
         "name": "T.J. Hockenson",
         "positionId": 4,
         "proTeamId": 16,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
