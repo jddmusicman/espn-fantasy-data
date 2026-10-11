@@ -716,7 +716,7 @@
         "name": "Kenyon Sadiq",
         "positionId": 4,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -724,7 +724,7 @@
         "name": "Skyy Moore",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -870,7 +870,7 @@
         "name": "Ollie Gordon II",
         "positionId": 2,
         "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
