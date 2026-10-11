@@ -92,7 +92,7 @@
         "name": "TreVeyon Henderson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -400,7 +400,7 @@
         "name": "Aaron Jones Sr.",
         "positionId": 2,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -506,7 +506,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
