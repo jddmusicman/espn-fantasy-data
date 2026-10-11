@@ -400,7 +400,7 @@
         "name": "Aaron Jones Sr.",
         "positionId": 2,
         "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -554,7 +554,7 @@
         "name": "KC Concepcion",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -724,7 +724,7 @@
         "name": "Skyy Moore",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1406,7 +1406,7 @@
         "name": "T.J. Hockenson",
         "positionId": 4,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 6
       },
       {
