@@ -368,7 +368,7 @@
         "name": "Rhamondre Stevenson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -758,7 +758,7 @@
         "name": "Justin Jefferson",
         "positionId": 3,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -806,7 +806,7 @@
         "name": "Rico Dowdle",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1058,7 +1058,7 @@
         "name": "Ashton Jeanty",
         "positionId": 2,
         "proTeamId": 13,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -1082,7 +1082,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1342,7 +1342,7 @@
         "name": "Ja'Marr Chase",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1374,7 +1374,7 @@
         "name": "Tee Higgins",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
