@@ -92,7 +92,7 @@
         "name": "TreVeyon Henderson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -328,7 +328,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1196,7 +1196,7 @@
         "name": "CeeDee Lamb",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
