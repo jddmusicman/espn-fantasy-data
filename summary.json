@@ -696,22 +696,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": 17427,
-        "name": "Cairo Santos",
-        "positionId": 5,
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
-      },
-      {
-        "id": 4869645,
-        "name": "Caleb Douglas",
-        "positionId": 3,
-        "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 5083315,
         "name": "Kenyon Sadiq",
         "positionId": 4,
@@ -734,6 +718,22 @@
         "proTeamId": 6,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4036378,
+        "name": "Jordan Love",
+        "positionId": 1,
+        "proTeamId": 9,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4571557,
+        "name": "Spencer Shrader",
+        "positionId": 5,
+        "proTeamId": 11,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
@@ -1455,6 +1455,14 @@
         "positionId": 3,
         "proTeamId": 2,
         "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": -16034,
+        "name": "Texans D/ST",
+        "positionId": 16,
+        "proTeamId": 34,
+        "injuryStatus": null,
         "lineupSlotId": 20
       }
     ]
