@@ -278,7 +278,7 @@
         "name": "Denzel Boston",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -838,7 +838,7 @@
         "name": "Alvin Kamara",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
