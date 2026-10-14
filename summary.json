@@ -940,14 +940,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 3126486,
-        "name": "Deebo Samuel Sr.",
-        "positionId": 3,
-        "proTeamId": 25,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 23
-      },
-      {
         "id": 4373626,
         "name": "Tyler Allgeier",
         "positionId": 2,
@@ -969,7 +961,7 @@
         "positionId": 3,
         "proTeamId": 6,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4696981,
@@ -1009,7 +1001,7 @@
         "positionId": 5,
         "proTeamId": 16,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
+        "lineupSlotId": 20
       },
       {
         "id": 5081338,
@@ -1020,10 +1012,18 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16020,
-        "name": "Jets D/ST",
+        "id": 5082424,
+        "name": "Dominic Zvada",
+        "positionId": 5,
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
+      },
+      {
+        "id": -16017,
+        "name": "Patriots D/ST",
         "positionId": 16,
-        "proTeamId": 20,
+        "proTeamId": 17,
         "injuryStatus": null,
         "lineupSlotId": 16
       }
