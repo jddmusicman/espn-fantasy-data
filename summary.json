@@ -621,7 +621,7 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4427366,
@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 16800,
@@ -653,7 +653,7 @@
         "positionId": 1,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4572680,
@@ -677,7 +677,7 @@
         "positionId": 2,
         "proTeamId": 3,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4575131,
@@ -685,7 +685,7 @@
         "positionId": 2,
         "proTeamId": 28,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4361432,
@@ -694,14 +694,6 @@
         "proTeamId": 17,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
-      },
-      {
-        "id": 5083315,
-        "name": "Kenyon Sadiq",
-        "positionId": 4,
-        "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
       },
       {
         "id": 4430191,
@@ -725,7 +717,7 @@
         "positionId": 1,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4571557,
@@ -734,6 +726,14 @@
         "proTeamId": 11,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": 4428331,
+        "name": "Rashee Rice",
+        "positionId": 3,
+        "proTeamId": 12,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
       }
     ]
   },
