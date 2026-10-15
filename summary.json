@@ -506,7 +506,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
@@ -621,7 +621,7 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4427366,
@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "DOUBTFUL",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 16800,
@@ -668,22 +668,6 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4608686,
-        "name": "Kyle Monangai",
-        "positionId": 2,
-        "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
-      },
-      {
-        "id": 4575131,
-        "name": "Jacory Croskey-Merritt",
-        "positionId": 2,
-        "proTeamId": 28,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
@@ -733,6 +717,22 @@
         "positionId": 3,
         "proTeamId": 12,
         "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4360238,
+        "name": "Dameon Pierce",
+        "positionId": 2,
+        "proTeamId": 21,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
+      },
+      {
+        "id": 4599739,
+        "name": "Kendre Miller",
+        "positionId": 2,
+        "proTeamId": 18,
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
     ]
