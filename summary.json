@@ -28,7 +28,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -278,7 +278,7 @@
         "name": "Denzel Boston",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -684,7 +684,7 @@
         "name": "Skyy Moore",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
@@ -774,7 +774,7 @@
         "name": "Zay Flowers",
         "positionId": 3,
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -1074,7 +1074,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1592,7 +1592,7 @@
         "name": "Rashod Bateman",
         "positionId": 3,
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
