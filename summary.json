@@ -328,7 +328,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
@@ -554,7 +554,7 @@
         "name": "KC Concepcion",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -708,7 +708,7 @@
         "name": "Rashee Rice",
         "positionId": 3,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
