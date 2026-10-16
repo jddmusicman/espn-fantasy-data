@@ -32,14 +32,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4431299,
-        "name": "Rome Odunze",
-        "positionId": 3,
-        "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 5083076,
         "name": "Harold Fannin Jr.",
         "positionId": 4,
@@ -61,7 +53,7 @@
         "positionId": 3,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": -16023,
@@ -85,7 +77,7 @@
         "positionId": 3,
         "proTeamId": 15,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4432710,
@@ -125,7 +117,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4431545,
@@ -133,7 +125,7 @@
         "positionId": 2,
         "proTeamId": 21,
         "injuryStatus": "DOUBTFUL",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 16737,
@@ -148,6 +140,14 @@
         "name": "Dohnte Meyers",
         "positionId": 3,
         "proTeamId": 4,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4430656,
+        "name": "Myles Price",
+        "positionId": 3,
+        "proTeamId": 16,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
@@ -482,7 +482,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
