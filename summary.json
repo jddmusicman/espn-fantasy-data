@@ -124,7 +124,7 @@
         "name": "Will Shipley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
@@ -1520,7 +1520,7 @@
         "name": "Tyler Warren",
         "positionId": 4,
         "proTeamId": 11,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
