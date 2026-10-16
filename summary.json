@@ -1399,7 +1399,7 @@
         "positionId": 2,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4036133,
@@ -1407,7 +1407,7 @@
         "positionId": 4,
         "proTeamId": 16,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": -16021,
@@ -1415,7 +1415,7 @@
         "positionId": 16,
         "proTeamId": 21,
         "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 20
       },
       {
         "id": 4689936,
@@ -1423,7 +1423,7 @@
         "positionId": 5,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
+        "lineupSlotId": 20
       },
       {
         "id": 4432577,
@@ -1434,20 +1434,12 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4570037,
-        "name": "Terrance Ferguson",
-        "positionId": 4,
-        "proTeamId": 14,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3929645,
         "name": "Juwan Johnson",
         "positionId": 4,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 6
       },
       {
         "id": 4635008,
@@ -1463,7 +1455,15 @@
         "positionId": 16,
         "proTeamId": 34,
         "injuryStatus": null,
-        "lineupSlotId": 20
+        "lineupSlotId": 16
+      },
+      {
+        "id": 4249087,
+        "name": "Matt Gay",
+        "positionId": 5,
+        "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
