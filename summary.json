@@ -120,14 +120,6 @@
         "lineupSlotId": 2
       },
       {
-        "id": 4431545,
-        "name": "Will Shipley",
-        "positionId": 2,
-        "proTeamId": 21,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 16737,
         "name": "Mike Evans",
         "positionId": 3,
@@ -149,6 +141,14 @@
         "positionId": 3,
         "proTeamId": 16,
         "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4608686,
+        "name": "Kyle Monangai",
+        "positionId": 2,
+        "proTeamId": 3,
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       }
     ]
