@@ -498,7 +498,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -546,7 +546,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
