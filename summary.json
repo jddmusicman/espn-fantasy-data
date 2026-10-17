@@ -360,7 +360,7 @@
         "name": "Jalen Hurts",
         "positionId": 1,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
