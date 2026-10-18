@@ -401,7 +401,7 @@
         "positionId": 1,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 2971573,
@@ -441,7 +441,7 @@
         "positionId": 1,
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       }
     ]
   },
@@ -1114,7 +1114,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
