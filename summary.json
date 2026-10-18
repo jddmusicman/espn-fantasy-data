@@ -380,14 +380,6 @@
         "lineupSlotId": 6
       },
       {
-        "id": 4038941,
-        "name": "Justin Herbert",
-        "positionId": 1,
-        "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3042519,
         "name": "Aaron Jones Sr.",
         "positionId": 2,
@@ -442,6 +434,14 @@
         "proTeamId": 27,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 14880,
+        "name": "Kirk Cousins",
+        "positionId": 1,
+        "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -732,7 +732,7 @@
         "name": "Pat Freiermuth",
         "positionId": 4,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       }
     ]
@@ -806,7 +806,7 @@
         "name": "Rico Dowdle",
         "positionId": 2,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1521,7 +1521,7 @@
         "positionId": 4,
         "proTeamId": 11,
         "injuryStatus": "OUT",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4259545,
@@ -1536,7 +1536,7 @@
         "name": "Caleb Williams",
         "positionId": 1,
         "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
       },
       {
@@ -1553,7 +1553,7 @@
         "positionId": 4,
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 6
       },
       {
         "id": 3046779,
@@ -1596,20 +1596,20 @@
         "lineupSlotId": 20
       },
       {
-        "id": 5081397,
-        "name": "Dylan Sampson",
-        "positionId": 2,
-        "proTeamId": 5,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4887558,
         "name": "Emanuel Wilson",
         "positionId": 2,
         "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
+      },
+      {
+        "id": 4429023,
+        "name": "MarShawn Lloyd",
+        "positionId": 2,
+        "proTeamId": 9,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 23
       }
     ]
   }
