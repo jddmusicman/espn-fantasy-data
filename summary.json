@@ -84,7 +84,7 @@
         "name": "TreVeyon Henderson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -198,7 +198,7 @@
         "name": "Quinshon Judkins",
         "positionId": 2,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
@@ -321,7 +321,7 @@
         "positionId": 3,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4870808,
@@ -329,7 +329,7 @@
         "positionId": 2,
         "proTeamId": 22,
         "injuryStatus": "OUT",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4595348,
@@ -372,14 +372,6 @@
         "lineupSlotId": 2
       },
       {
-        "id": 4360078,
-        "name": "Alec Pierce",
-        "positionId": 3,
-        "proTeamId": 11,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3040151,
         "name": "George Kittle",
         "positionId": 4,
@@ -409,7 +401,7 @@
         "positionId": 2,
         "proTeamId": 14,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4360689,
@@ -418,14 +410,6 @@
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
-      },
-      {
-        "id": 4241474,
-        "name": "Brian Robinson Jr.",
-        "positionId": 2,
-        "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
       },
       {
         "id": 2971573,
@@ -440,6 +424,22 @@
         "name": "Vikings D/ST",
         "positionId": 16,
         "proTeamId": 16,
+        "injuryStatus": null,
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4431299,
+        "name": "Rome Odunze",
+        "positionId": 3,
+        "proTeamId": 3,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 4
+      },
+      {
+        "id": -16027,
+        "name": "Buccaneers D/ST",
+        "positionId": 16,
+        "proTeamId": 27,
         "injuryStatus": null,
         "lineupSlotId": 16
       }
@@ -680,14 +680,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": 4430191,
-        "name": "Skyy Moore",
-        "positionId": 3,
-        "proTeamId": 9,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 23
-      },
-      {
         "id": 4036378,
         "name": "Jordan Love",
         "positionId": 1,
@@ -734,6 +726,14 @@
         "proTeamId": 30,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4361411,
+        "name": "Pat Freiermuth",
+        "positionId": 4,
+        "proTeamId": 23,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 23
       }
     ]
   },
@@ -838,7 +838,7 @@
         "name": "Alvin Kamara",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -976,7 +976,7 @@
         "name": "Chris Olave",
         "positionId": 3,
         "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1520,7 +1520,7 @@
         "name": "Tyler Warren",
         "positionId": 4,
         "proTeamId": 11,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 6
       },
       {
