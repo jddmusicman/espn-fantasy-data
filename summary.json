@@ -838,7 +838,7 @@
         "name": "Alvin Kamara",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1592,7 +1592,7 @@
         "name": "Rashod Bateman",
         "positionId": 3,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
