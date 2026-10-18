@@ -676,7 +676,7 @@
         "name": "Romeo Doubs",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1592,7 +1592,7 @@
         "name": "Rashod Bateman",
         "positionId": 3,
         "proTeamId": 33,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
