@@ -124,7 +124,7 @@
         "name": "Mike Evans",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -498,7 +498,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 4
       },
       {
