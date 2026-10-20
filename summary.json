@@ -636,7 +636,7 @@
         "name": "Davante Adams",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 4
       },
       {
