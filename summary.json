@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 16800,
@@ -637,7 +637,7 @@
         "positionId": 3,
         "proTeamId": 14,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 3915511,
@@ -661,7 +661,7 @@
         "positionId": 3,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4361432,
@@ -693,7 +693,7 @@
         "positionId": 3,
         "proTeamId": 12,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4360238,
@@ -709,15 +709,7 @@
         "positionId": 2,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
-      },
-      {
-        "id": -16030,
-        "name": "Jaguars D/ST",
-        "positionId": 16,
-        "proTeamId": 30,
-        "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 20
       },
       {
         "id": 4361411,
@@ -733,7 +725,15 @@
         "positionId": 3,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
+      },
+      {
+        "id": -16020,
+        "name": "Jets D/ST",
+        "positionId": 16,
+        "proTeamId": 20,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
