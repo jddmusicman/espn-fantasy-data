@@ -44,7 +44,7 @@
         "name": "Matthew Golden",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -230,7 +230,7 @@
         "name": "Christian Watson",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -278,7 +278,7 @@
         "name": "Denzel Boston",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -554,7 +554,7 @@
         "name": "KC Concepcion",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -676,7 +676,7 @@
         "name": "Jordan Love",
         "positionId": 1,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
@@ -1114,7 +1114,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
