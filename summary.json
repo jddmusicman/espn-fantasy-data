@@ -270,7 +270,7 @@
         "name": "Rashid Shaheed",
         "positionId": 3,
         "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1106,7 +1106,7 @@
         "name": "Travis Kelce",
         "positionId": 4,
         "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
