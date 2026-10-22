@@ -328,7 +328,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -758,7 +758,7 @@
         "name": "Justin Jefferson",
         "positionId": 3,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
