@@ -1497,7 +1497,7 @@
         "positionId": 2,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4685472,
@@ -1564,14 +1564,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16014,
-        "name": "Rams D/ST",
-        "positionId": 16,
-        "proTeamId": 14,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4686728,
         "name": "Gunnar Helm",
         "positionId": 4,
@@ -1601,15 +1593,23 @@
         "positionId": 2,
         "proTeamId": 26,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
-        "id": 4429023,
-        "name": "MarShawn Lloyd",
+        "id": 4360516,
+        "name": "Tyrone Tracy Jr.",
         "positionId": 2,
-        "proTeamId": 9,
+        "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
+      },
+      {
+        "id": -16007,
+        "name": "Broncos D/ST",
+        "positionId": 16,
+        "proTeamId": 7,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   }
