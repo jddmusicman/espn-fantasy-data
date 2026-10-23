@@ -44,7 +44,7 @@
         "name": "Matthew Golden",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -230,7 +230,7 @@
         "name": "Christian Watson",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1406,7 +1406,7 @@
         "name": "T.J. Hockenson",
         "positionId": 4,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
