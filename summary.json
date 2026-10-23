@@ -198,7 +198,7 @@
         "name": "Quinshon Judkins",
         "positionId": 2,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -278,7 +278,7 @@
         "name": "Denzel Boston",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -554,7 +554,7 @@
         "name": "KC Concepcion",
         "positionId": 3,
         "proTeamId": 5,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
