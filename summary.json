@@ -1018,6 +1018,14 @@
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
+      },
+      {
+        "id": 5083076,
+        "name": "Harold Fannin Jr.",
+        "positionId": 4,
+        "proTeamId": 5,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
