@@ -490,7 +490,7 @@
         "name": "Emeka Egbuka",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -1366,7 +1366,7 @@
         "name": "Bucky Irving",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -1520,7 +1520,7 @@
         "name": "Tyler Warren",
         "positionId": 4,
         "proTeamId": 11,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
