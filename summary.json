@@ -1572,14 +1572,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4360939,
-        "name": "Rashod Bateman",
-        "positionId": 3,
-        "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4887558,
         "name": "Emanuel Wilson",
         "positionId": 2,
@@ -1602,6 +1594,14 @@
         "proTeamId": 7,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4685261,
+        "name": "Germie Bernard",
+        "positionId": 3,
+        "proTeamId": 23,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   }
