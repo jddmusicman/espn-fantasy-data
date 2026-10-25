@@ -384,7 +384,7 @@
         "name": "Aaron Jones Sr.",
         "positionId": 2,
         "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -716,7 +716,7 @@
         "name": "Jaylin Noel",
         "positionId": 3,
         "proTeamId": 34,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -968,7 +968,7 @@
         "name": "Cam Skattebo",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1138,7 +1138,7 @@
         "name": "Kenny Gainwell",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
