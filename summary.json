@@ -628,8 +628,8 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "injuryStatus": "OUT",
+        "lineupSlotId": 20
       },
       {
         "id": 16800,
@@ -645,7 +645,7 @@
         "positionId": 1,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4572680,
@@ -677,7 +677,7 @@
         "positionId": 1,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4571557,
@@ -693,14 +693,6 @@
         "positionId": 3,
         "proTeamId": 12,
         "injuryStatus": "OUT",
-        "lineupSlotId": 4
-      },
-      {
-        "id": 4360238,
-        "name": "Dameon Pierce",
-        "positionId": 2,
-        "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -709,7 +701,7 @@
         "positionId": 2,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4361411,
@@ -734,6 +726,14 @@
         "proTeamId": 20,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4428718,
+        "name": "Tre Tucker",
+        "positionId": 3,
+        "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 4
       }
     ]
   },
@@ -1114,7 +1114,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
