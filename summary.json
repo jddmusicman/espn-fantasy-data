@@ -20,7 +20,7 @@
         "name": "Puka Nacua",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -84,7 +84,7 @@
         "name": "Jonah Coleman",
         "positionId": 2,
         "proTeamId": 7,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 21
       },
       {
@@ -1138,7 +1138,7 @@
         "name": "Kenny Gainwell",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -1592,7 +1592,7 @@
         "name": "Tyrone Tracy Jr.",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
