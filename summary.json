@@ -28,7 +28,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -44,7 +44,7 @@
         "name": "Matthew Golden",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -174,7 +174,7 @@
         "name": "Christian McCaffrey",
         "positionId": 2,
         "proTeamId": 25,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -838,7 +838,7 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
