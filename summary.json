@@ -116,7 +116,7 @@
         "name": "Kyle Monangai",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -328,7 +328,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -490,7 +490,7 @@
         "name": "Emeka Egbuka",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -506,7 +506,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -628,7 +628,7 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -692,7 +692,7 @@
         "name": "Rashee Rice",
         "positionId": 3,
         "proTeamId": 12,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -759,7 +759,7 @@
         "positionId": 3,
         "proTeamId": 16,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4426354,
@@ -790,7 +790,7 @@
         "name": "Lamar Jackson",
         "positionId": 1,
         "proTeamId": 33,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
@@ -839,7 +839,7 @@
         "positionId": 3,
         "proTeamId": 29,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4569559,
@@ -960,7 +960,7 @@
         "name": "KaVontae Turpin",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1074,7 +1074,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1114,7 +1114,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1520,8 +1520,8 @@
         "name": "Tyler Warren",
         "positionId": 4,
         "proTeamId": 11,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 20
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 6
       },
       {
         "id": 4259545,
@@ -1553,7 +1553,7 @@
         "positionId": 4,
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 3046779,
