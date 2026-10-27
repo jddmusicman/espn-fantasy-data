@@ -838,7 +838,7 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1212,7 +1212,7 @@
         "name": "Josh Jacobs",
         "positionId": 2,
         "proTeamId": 9,
-        "injuryStatus": "DAY_TO_DAY",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -1592,7 +1592,7 @@
         "name": "Tyrone Tracy Jr.",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
