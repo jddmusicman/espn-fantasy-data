@@ -85,14 +85,14 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 21
+        "lineupSlotId": 20
       },
       {
         "id": 4685247,
         "name": "Braelon Allen",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -132,14 +132,6 @@
         "name": "Hunter Henry",
         "positionId": 4,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4429086,
-        "name": "Michael Mayer",
-        "positionId": 4,
-        "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
@@ -498,7 +490,7 @@
         "name": "Terry McLaurin",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 4
       },
       {
@@ -1074,7 +1066,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
