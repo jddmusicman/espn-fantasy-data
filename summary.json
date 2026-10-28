@@ -60,7 +60,7 @@
         "name": "Malik Washington",
         "positionId": 3,
         "proTeamId": 15,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -140,7 +140,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       }
     ]
@@ -474,7 +474,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -604,7 +604,7 @@
         "name": "Jahmyr Gibbs",
         "positionId": 2,
         "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -652,7 +652,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -708,7 +708,7 @@
         "name": "Jaylin Noel",
         "positionId": 3,
         "proTeamId": 34,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
@@ -1122,7 +1122,7 @@
         "name": "Kenny Gainwell",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dalton Kincaid",
         "positionId": 4,
         "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1334,7 +1334,7 @@
         "name": "Ja'Marr Chase",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
