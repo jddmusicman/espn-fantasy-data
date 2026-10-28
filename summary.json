@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 16800,
@@ -645,7 +645,7 @@
         "positionId": 1,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4572680,
@@ -653,7 +653,7 @@
         "positionId": 4,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 6
       },
       {
         "id": 3916433,
@@ -661,7 +661,7 @@
         "positionId": 3,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4361432,
@@ -677,7 +677,7 @@
         "positionId": 1,
         "proTeamId": 9,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4571557,
@@ -693,7 +693,7 @@
         "positionId": 3,
         "proTeamId": 12,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4599739,
@@ -701,7 +701,7 @@
         "positionId": 2,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4361411,
@@ -709,7 +709,7 @@
         "positionId": 4,
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4586312,
@@ -717,7 +717,7 @@
         "positionId": 3,
         "proTeamId": 34,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": -16020,
@@ -1592,7 +1592,7 @@
         "name": "Tyrone Tracy Jr.",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 23
       },
       {
