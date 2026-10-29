@@ -29,7 +29,7 @@
         "positionId": 2,
         "proTeamId": 21,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 2577417,
@@ -61,7 +61,7 @@
         "positionId": 3,
         "proTeamId": 15,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4242335,
@@ -93,21 +93,13 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4384852,
         "name": "Dohnte Meyers",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
-      },
-      {
-        "id": 4430656,
-        "name": "Myles Price",
-        "positionId": 3,
-        "proTeamId": 16,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
@@ -141,6 +133,14 @@
         "positionId": 3,
         "proTeamId": 17,
         "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4723820,
+        "name": "Omar Cooper Jr.",
+        "positionId": 3,
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
     ]
