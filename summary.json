@@ -44,7 +44,7 @@
         "name": "Matthew Golden",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -76,7 +76,7 @@
         "name": "RJ Harvey",
         "positionId": 2,
         "proTeamId": 7,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -92,7 +92,7 @@
         "name": "Braelon Allen",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -312,7 +312,7 @@
         "name": "Amon-Ra St. Brown",
         "positionId": 3,
         "proTeamId": 8,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -474,7 +474,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
@@ -604,7 +604,7 @@
         "name": "Jahmyr Gibbs",
         "positionId": 2,
         "proTeamId": 8,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -1090,7 +1090,7 @@
         "name": "Travis Kelce",
         "positionId": 4,
         "proTeamId": 12,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -1316,7 +1316,7 @@
   {
     "teamId": 16,
     "teamName": "",
-    "owner": "ESPNFAN5094941659",
+    "owner": null,
     "record": {
       "gamesBack": 3.5,
       "losses": 4,
@@ -1334,7 +1334,7 @@
         "name": "Ja'Marr Chase",
         "positionId": 3,
         "proTeamId": 4,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
