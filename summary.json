@@ -758,7 +758,7 @@
         "name": "George Pickens",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -936,7 +936,7 @@
         "name": "Tyler Allgeier",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1154,7 +1154,7 @@
         "name": "Michael Wilson",
         "positionId": 3,
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1505,7 +1505,7 @@
         "positionId": 4,
         "proTeamId": 11,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4259545,
@@ -1569,7 +1569,7 @@
         "positionId": 2,
         "proTeamId": 19,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": -16007,
@@ -1593,7 +1593,7 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4430539,
@@ -1601,7 +1601,7 @@
         "positionId": 4,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       }
     ]
   }
