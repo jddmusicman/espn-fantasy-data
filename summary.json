@@ -329,7 +329,7 @@
         "positionId": 3,
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4239996,
@@ -345,15 +345,7 @@
         "positionId": 3,
         "proTeamId": 2,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4040715,
-        "name": "Jalen Hurts",
-        "positionId": 1,
-        "proTeamId": 21,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4569173,
@@ -369,7 +361,7 @@
         "positionId": 4,
         "proTeamId": 25,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 3042519,
@@ -401,7 +393,7 @@
         "positionId": 5,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
+        "lineupSlotId": 20
       },
       {
         "id": -16016,
@@ -420,20 +412,28 @@
         "lineupSlotId": 4
       },
       {
-        "id": -16027,
-        "name": "Buccaneers D/ST",
-        "positionId": 16,
-        "proTeamId": 27,
-        "injuryStatus": null,
-        "lineupSlotId": 20
-      },
-      {
         "id": 14880,
         "name": "Kirk Cousins",
         "positionId": 1,
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
+      },
+      {
+        "id": 4808766,
+        "name": "Mason Taylor",
+        "positionId": 4,
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 6
+      },
+      {
+        "id": 4363538,
+        "name": "Chad Ryland",
+        "positionId": 5,
+        "proTeamId": 22,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
@@ -482,7 +482,7 @@
         "name": "Emeka Egbuka",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -775,7 +775,7 @@
         "positionId": 1,
         "proTeamId": 28,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 3916387,
@@ -783,7 +783,7 @@
         "positionId": 1,
         "proTeamId": 33,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4569987,
@@ -802,22 +802,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4242355,
-        "name": "Jake Ferguson",
-        "positionId": 4,
-        "proTeamId": 6,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 3116365,
-        "name": "Mark Andrews",
-        "positionId": 4,
-        "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
-      },
-      {
         "id": 3054850,
         "name": "Alvin Kamara",
         "positionId": 2,
@@ -830,14 +814,6 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4569559,
-        "name": "Devaughn Vele",
-        "positionId": 3,
-        "proTeamId": 18,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
@@ -872,6 +848,30 @@
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": 4429086,
+        "name": "Michael Mayer",
+        "positionId": 4,
+        "proTeamId": 13,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 6
+      },
+      {
+        "id": 3117256,
+        "name": "Dalton Schultz",
+        "positionId": 4,
+        "proTeamId": 34,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 16737,
+        "name": "Mike Evans",
+        "positionId": 3,
+        "proTeamId": 25,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -1504,7 +1504,7 @@
         "name": "Tyler Warren",
         "positionId": 4,
         "proTeamId": 11,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
