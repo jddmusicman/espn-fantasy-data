@@ -28,7 +28,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
@@ -60,7 +60,7 @@
         "name": "Malik Washington",
         "positionId": 3,
         "proTeamId": 15,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -76,7 +76,7 @@
         "name": "RJ Harvey",
         "positionId": 2,
         "proTeamId": 7,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -167,7 +167,7 @@
         "positionId": 2,
         "proTeamId": 25,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4361307,
@@ -198,8 +198,8 @@
         "name": "Colston Loveland",
         "positionId": 4,
         "proTeamId": 3,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
       },
       {
         "id": 3128429,
@@ -207,7 +207,7 @@
         "positionId": 3,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4426338,
@@ -215,7 +215,7 @@
         "positionId": 1,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 4248528,
@@ -226,20 +226,12 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4373678,
-        "name": "Khalil Shakir",
-        "positionId": 3,
-        "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3916148,
         "name": "Tony Pollard",
         "positionId": 2,
         "proTeamId": 10,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 4688813,
@@ -263,15 +255,7 @@
         "positionId": 3,
         "proTeamId": 26,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4832800,
-        "name": "Denzel Boston",
-        "positionId": 3,
-        "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": -16005,
@@ -288,6 +272,22 @@
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": 15864,
+        "name": "Geno Smith",
+        "positionId": 1,
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 0
+      },
+      {
+        "id": 4039050,
+        "name": "Devin Duvernay",
+        "positionId": 3,
+        "proTeamId": 22,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 4
       }
     ]
   },
@@ -320,7 +320,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -368,7 +368,7 @@
         "name": "Aaron Jones Sr.",
         "positionId": 2,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -684,7 +684,7 @@
         "name": "Rashee Rice",
         "positionId": 3,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -782,7 +782,7 @@
         "name": "Lamar Jackson",
         "positionId": 1,
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -944,7 +944,7 @@
         "name": "KaVontae Turpin",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1066,7 +1066,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1090,7 +1090,7 @@
         "name": "Travis Kelce",
         "positionId": 4,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1098,7 +1098,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1146,7 +1146,7 @@
         "name": "Michael Wilson",
         "positionId": 3,
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -1316,7 +1316,7 @@
   {
     "teamId": 16,
     "teamName": "",
-    "owner": null,
+    "owner": "ESPNfan2474243723",
     "record": {
       "gamesBack": 3.5,
       "losses": 4,
@@ -1446,7 +1446,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1454,7 +1454,7 @@
         "name": "Ladd McConkey",
         "positionId": 3,
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
     ]
