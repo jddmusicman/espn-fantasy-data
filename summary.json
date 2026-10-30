@@ -921,7 +921,7 @@
         "positionId": 1,
         "proTeamId": 25,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 3139477,
@@ -929,15 +929,7 @@
         "positionId": 1,
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4373626,
-        "name": "Tyler Allgeier",
-        "positionId": 2,
-        "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4431268,
@@ -969,7 +961,7 @@
         "positionId": 3,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4567104,
@@ -988,28 +980,12 @@
         "lineupSlotId": 4
       },
       {
-        "id": 5082424,
-        "name": "Dominic Zvada",
-        "positionId": 5,
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
-      },
-      {
-        "id": -16017,
-        "name": "Patriots D/ST",
-        "positionId": 16,
-        "proTeamId": 17,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4832955,
         "name": "Emmett Johnson",
         "positionId": 2,
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 23
       },
       {
         "id": 5083076,
@@ -1018,6 +994,30 @@
         "proTeamId": 5,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": -16030,
+        "name": "Jaguars D/ST",
+        "positionId": 16,
+        "proTeamId": 30,
+        "injuryStatus": null,
+        "lineupSlotId": 16
+      },
+      {
+        "id": 4430968,
+        "name": "Kimani Vidal",
+        "positionId": 2,
+        "proTeamId": 24,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
+      },
+      {
+        "id": 3917232,
+        "name": "Tyler Bass",
+        "positionId": 5,
+        "proTeamId": 2,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
@@ -1043,7 +1043,7 @@
         "positionId": 2,
         "proTeamId": 2,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4890973,
@@ -1091,7 +1091,7 @@
         "positionId": 4,
         "proTeamId": 12,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4428557,
@@ -1115,7 +1115,7 @@
         "positionId": 4,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 4371733,
@@ -1123,15 +1123,7 @@
         "positionId": 2,
         "proTeamId": 27,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 23
-      },
-      {
-        "id": -16025,
-        "name": "49ers D/ST",
-        "positionId": 16,
-        "proTeamId": 25,
-        "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 20
       },
       {
         "id": 4613202,
@@ -1164,6 +1156,14 @@
         "proTeamId": 11,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": -16014,
+        "name": "Rams D/ST",
+        "positionId": 16,
+        "proTeamId": 14,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
