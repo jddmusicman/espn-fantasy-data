@@ -222,7 +222,7 @@
         "name": "Christian Watson",
         "positionId": 3,
         "proTeamId": 9,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1335,7 +1335,7 @@
         "positionId": 3,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 3043078,
@@ -1351,7 +1351,7 @@
         "positionId": 3,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4596448,
@@ -1367,7 +1367,7 @@
         "positionId": 3,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4360310,
@@ -1375,7 +1375,7 @@
         "positionId": 1,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4569587,
@@ -1383,7 +1383,7 @@
         "positionId": 3,
         "proTeamId": 10,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4241416,
@@ -1399,23 +1399,7 @@
         "positionId": 4,
         "proTeamId": 16,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": -16021,
-        "name": "Eagles D/ST",
-        "positionId": 16,
-        "proTeamId": 21,
-        "injuryStatus": null,
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4689936,
-        "name": "Jake Bates",
-        "positionId": 5,
-        "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 4432577,
@@ -1423,7 +1407,7 @@
         "positionId": 1,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 3929645,
@@ -1431,23 +1415,7 @@
         "positionId": 4,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
-      },
-      {
-        "id": 4635008,
-        "name": "Keon Coleman",
-        "positionId": 3,
-        "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
-      },
-      {
-        "id": -16034,
-        "name": "Texans D/ST",
-        "positionId": 16,
-        "proTeamId": 34,
-        "injuryStatus": null,
-        "lineupSlotId": 16
       },
       {
         "id": 4249087,
@@ -1456,6 +1424,38 @@
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": -16028,
+        "name": "Commanders D/ST",
+        "positionId": 16,
+        "proTeamId": 28,
+        "injuryStatus": null,
+        "lineupSlotId": 16
+      },
+      {
+        "id": 3126486,
+        "name": "Deebo Samuel Sr.",
+        "positionId": 3,
+        "proTeamId": 25,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4241478,
+        "name": "DeVonta Smith",
+        "positionId": 3,
+        "proTeamId": 21,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4612826,
+        "name": "Ladd McConkey",
+        "positionId": 3,
+        "proTeamId": 24,
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
       }
     ]
   },
