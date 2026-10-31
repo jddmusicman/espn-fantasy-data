@@ -238,8 +238,8 @@
         "name": "Rashid Shaheed",
         "positionId": 3,
         "proTeamId": 26,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 23
+        "injuryStatus": "OUT",
+        "lineupSlotId": 21
       },
       {
         "id": -16005,
@@ -288,6 +288,14 @@
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 4686472,
+        "name": "Marvin Mims Jr.",
+        "positionId": 3,
+        "proTeamId": 7,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 23
       }
     ]
   },
@@ -1600,7 +1608,7 @@
         "name": "Zach Charbonnet",
         "positionId": 2,
         "proTeamId": 26,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
     ]
