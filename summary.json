@@ -108,7 +108,7 @@
         "name": "Kyle Monangai",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -132,7 +132,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
