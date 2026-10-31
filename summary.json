@@ -191,7 +191,7 @@
         "positionId": 2,
         "proTeamId": 5,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4723086,
@@ -234,22 +234,6 @@
         "lineupSlotId": 2
       },
       {
-        "id": 4688813,
-        "name": "Josh Downs",
-        "positionId": 3,
-        "proTeamId": 11,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4429059,
-        "name": "Woody Marks",
-        "positionId": 2,
-        "proTeamId": 34,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4032473,
         "name": "Rashid Shaheed",
         "positionId": 3,
@@ -288,6 +272,22 @@
         "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
+      },
+      {
+        "id": 4429676,
+        "name": "Tyler Goodson",
+        "positionId": 2,
+        "proTeamId": 6,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
+      },
+      {
+        "id": 4569371,
+        "name": "Isaiah Williams",
+        "positionId": 3,
+        "proTeamId": 20,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
