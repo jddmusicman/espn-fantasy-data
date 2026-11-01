@@ -352,7 +352,7 @@
         "name": "DJ Moore",
         "positionId": 3,
         "proTeamId": 2,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -616,20 +616,12 @@
         "lineupSlotId": 2
       },
       {
-        "id": 4685382,
-        "name": "Omarion Hampton",
-        "positionId": 2,
-        "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4427366,
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 2
+        "injuryStatus": "OUT",
+        "lineupSlotId": 20
       },
       {
         "id": 16800,
@@ -660,7 +652,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -720,20 +712,28 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16020,
-        "name": "Jets D/ST",
-        "positionId": 16,
-        "proTeamId": 20,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4428718,
         "name": "Tre Tucker",
         "positionId": 3,
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
+      },
+      {
+        "id": -16004,
+        "name": "Bengals D/ST",
+        "positionId": 16,
+        "proTeamId": 4,
+        "injuryStatus": null,
+        "lineupSlotId": 16
+      },
+      {
+        "id": 4596334,
+        "name": "Keaton Mitchell",
+        "positionId": 2,
+        "proTeamId": 24,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
       }
     ]
   },
@@ -766,7 +766,7 @@
         "name": "George Pickens",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -1130,7 +1130,7 @@
         "name": "Kenny Gainwell",
         "positionId": 2,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1276,7 +1276,7 @@
         "name": "Dalton Kincaid",
         "positionId": 4,
         "proTeamId": 2,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1580,14 +1580,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": -16007,
-        "name": "Broncos D/ST",
-        "positionId": 16,
-        "proTeamId": 7,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4685261,
         "name": "Germie Bernard",
         "positionId": 3,
@@ -1610,6 +1602,14 @@
         "proTeamId": 26,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": -16017,
+        "name": "Patriots D/ST",
+        "positionId": 16,
+        "proTeamId": 17,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   }
