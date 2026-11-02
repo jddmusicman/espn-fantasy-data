@@ -124,7 +124,7 @@
         "name": "Hunter Henry",
         "positionId": 4,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 6
       },
       {
@@ -352,7 +352,7 @@
         "name": "DJ Moore",
         "positionId": 3,
         "proTeamId": 2,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1154,7 +1154,7 @@
         "name": "Michael Wilson",
         "positionId": 3,
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
