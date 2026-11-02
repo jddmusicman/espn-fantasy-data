@@ -530,7 +530,7 @@
         "name": "Matthew Stafford",
         "positionId": 1,
         "proTeamId": 14,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -586,7 +586,7 @@
         "name": "Tyler Loop",
         "positionId": 5,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 17
       }
     ]
