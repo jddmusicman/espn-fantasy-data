@@ -48,14 +48,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": -16023,
-        "name": "Steelers D/ST",
-        "positionId": 16,
-        "proTeamId": 23,
-        "injuryStatus": null,
-        "lineupSlotId": 16
-      },
-      {
         "id": 4569603,
         "name": "Malik Washington",
         "positionId": 3,
@@ -77,7 +69,7 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 21
       },
       {
         "id": 4702555,
@@ -108,16 +100,8 @@
         "name": "Kyle Monangai",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
-      },
-      {
-        "id": 17372,
-        "name": "Chris Boswell",
-        "positionId": 5,
-        "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
       },
       {
         "id": 3046439,
@@ -132,7 +116,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -238,7 +222,7 @@
         "name": "Rashid Shaheed",
         "positionId": 3,
         "proTeamId": 26,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 21
       },
       {
@@ -328,7 +312,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -490,7 +474,7 @@
         "name": "Emeka Egbuka",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -586,7 +570,7 @@
         "name": "Tyler Loop",
         "positionId": 5,
         "proTeamId": 33,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 17
       }
     ]
@@ -620,8 +604,8 @@
         "name": "Breece Hall",
         "positionId": 2,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 20
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 2
       },
       {
         "id": 16800,
@@ -629,7 +613,7 @@
         "positionId": 3,
         "proTeamId": 14,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 21
       },
       {
         "id": 3915511,
@@ -656,14 +640,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": 4361432,
-        "name": "Romeo Doubs",
-        "positionId": 3,
-        "proTeamId": 17,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4036378,
         "name": "Jordan Love",
         "positionId": 1,
@@ -685,7 +661,7 @@
         "positionId": 3,
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 4
       },
       {
         "id": 4599739,
@@ -717,7 +693,7 @@
         "positionId": 3,
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": -16004,
@@ -733,7 +709,7 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 23
       }
     ]
   },
@@ -952,7 +928,7 @@
         "name": "KaVontae Turpin",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1454,7 +1430,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1513,7 +1489,7 @@
         "positionId": 4,
         "proTeamId": 11,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 4259545,
@@ -1545,7 +1521,7 @@
         "positionId": 4,
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 3046779,
@@ -1585,7 +1561,7 @@
         "positionId": 3,
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4430539,
@@ -1593,7 +1569,7 @@
         "positionId": 4,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4426385,
