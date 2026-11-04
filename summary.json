@@ -53,7 +53,7 @@
         "positionId": 3,
         "proTeamId": 15,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4242335,
@@ -77,7 +77,7 @@
         "positionId": 2,
         "proTeamId": 7,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4685247,
@@ -120,14 +120,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4723820,
-        "name": "Omar Cooper Jr.",
-        "positionId": 3,
-        "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4373626,
         "name": "Tyler Allgeier",
         "positionId": 2,
@@ -150,6 +142,14 @@
         "proTeamId": 19,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": 2976212,
+        "name": "Stefon Diggs",
+        "positionId": 3,
+        "proTeamId": 28,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -190,7 +190,7 @@
         "name": "Garrett Wilson",
         "positionId": 3,
         "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -328,7 +328,7 @@
         "name": "Amon-Ra St. Brown",
         "positionId": 3,
         "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -514,7 +514,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
@@ -660,7 +660,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -1091,7 +1091,7 @@
         "positionId": 3,
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 15847,
@@ -1146,7 +1146,7 @@
         "name": "Sam Darnold",
         "positionId": 1,
         "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1155,7 +1155,7 @@
         "positionId": 3,
         "proTeamId": 22,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4686468,
@@ -1300,7 +1300,7 @@
         "name": "Chris Rodriguez Jr.",
         "positionId": 2,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
