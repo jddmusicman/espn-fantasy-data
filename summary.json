@@ -126,6 +126,30 @@
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 4373626,
+        "name": "Tyler Allgeier",
+        "positionId": 2,
+        "proTeamId": 22,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": -16034,
+        "name": "Texans D/ST",
+        "positionId": 16,
+        "proTeamId": 34,
+        "injuryStatus": null,
+        "lineupSlotId": 16
+      },
+      {
+        "id": 5082424,
+        "name": "Dominic Zvada",
+        "positionId": 5,
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
