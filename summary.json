@@ -312,7 +312,7 @@
         "name": "Jeremiyah Love",
         "positionId": 2,
         "proTeamId": 22,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
@@ -570,7 +570,7 @@
         "name": "Tyler Loop",
         "positionId": 5,
         "proTeamId": 33,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 17
       }
     ]
