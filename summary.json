@@ -345,7 +345,7 @@
         "positionId": 3,
         "proTeamId": 19,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4239996,
@@ -377,7 +377,7 @@
         "positionId": 4,
         "proTeamId": 25,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 3042519,
@@ -425,7 +425,7 @@
         "positionId": 3,
         "proTeamId": 3,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 14880,
@@ -441,7 +441,7 @@
         "positionId": 4,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4363538,
@@ -1236,7 +1236,7 @@
         "name": "Bhayshul Tuten",
         "positionId": 2,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
       },
       {
