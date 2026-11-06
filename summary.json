@@ -913,7 +913,7 @@
         "positionId": 3,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4360248,
@@ -945,7 +945,7 @@
         "positionId": 3,
         "proTeamId": 10,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 3676833,
@@ -961,7 +961,7 @@
         "positionId": 2,
         "proTeamId": 19,
         "injuryStatus": "QUESTIONABLE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4361370,
@@ -969,7 +969,7 @@
         "positionId": 3,
         "proTeamId": 18,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4567104,
@@ -985,7 +985,7 @@
         "positionId": 3,
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 4832955,
@@ -993,7 +993,7 @@
         "positionId": 2,
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 5083076,
