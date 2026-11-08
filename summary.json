@@ -286,7 +286,7 @@
         "name": "Tyler Goodson",
         "positionId": 2,
         "proTeamId": 6,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -328,7 +328,7 @@
         "name": "Amon-Ra St. Brown",
         "positionId": 3,
         "proTeamId": 8,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -766,7 +766,7 @@
         "name": "George Pickens",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -960,7 +960,7 @@
         "name": "Cam Skattebo",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1367,7 +1367,7 @@
         "positionId": 2,
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4239993,
@@ -1384,14 +1384,6 @@
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
-      },
-      {
-        "id": 4569587,
-        "name": "Wan'Dale Robinson",
-        "positionId": 3,
-        "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
       },
       {
         "id": 4241416,
@@ -1464,6 +1456,14 @@
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
+      },
+      {
+        "id": 4040761,
+        "name": "Devin Singletary",
+        "positionId": 2,
+        "proTeamId": 19,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
       }
     ]
   },
