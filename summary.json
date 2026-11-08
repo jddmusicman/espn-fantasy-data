@@ -29,7 +29,7 @@
         "positionId": 2,
         "proTeamId": 21,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 2577417,
@@ -125,7 +125,7 @@
         "positionId": 2,
         "proTeamId": 22,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": -16034,
@@ -417,7 +417,7 @@
         "positionId": 16,
         "proTeamId": 16,
         "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 20
       },
       {
         "id": 4431299,
@@ -436,20 +436,20 @@
         "lineupSlotId": 0
       },
       {
-        "id": 4808766,
-        "name": "Mason Taylor",
-        "positionId": 4,
-        "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4363538,
         "name": "Chad Ryland",
         "positionId": 5,
         "proTeamId": 22,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
+      },
+      {
+        "id": -16007,
+        "name": "Broncos D/ST",
+        "positionId": 16,
+        "proTeamId": 7,
+        "injuryStatus": null,
+        "lineupSlotId": 16
       }
     ]
   },
@@ -629,7 +629,7 @@
         "positionId": 2,
         "proTeamId": 20,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 23
       },
       {
         "id": 16800,
@@ -688,14 +688,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": 4599739,
-        "name": "Kendre Miller",
-        "positionId": 2,
-        "proTeamId": 0,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 4361411,
         "name": "Pat Freiermuth",
         "positionId": 4,
@@ -733,7 +725,15 @@
         "positionId": 2,
         "proTeamId": 24,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
+      },
+      {
+        "id": 5081397,
+        "name": "Dylan Sampson",
+        "positionId": 2,
+        "proTeamId": 5,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
       }
     ]
   },
