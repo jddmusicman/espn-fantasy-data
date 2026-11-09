@@ -100,7 +100,7 @@
         "name": "Kyle Monangai",
         "positionId": 2,
         "proTeamId": 3,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -368,7 +368,7 @@
         "name": "Rhamondre Stevenson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -498,7 +498,7 @@
         "name": "Emeka Egbuka",
         "positionId": 3,
         "proTeamId": 27,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
