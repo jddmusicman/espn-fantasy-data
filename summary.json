@@ -20,7 +20,7 @@
         "name": "Puka Nacua",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 4
       },
       {
@@ -286,7 +286,7 @@
         "name": "Tyler Goodson",
         "positionId": 2,
         "proTeamId": 6,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1154,7 +1154,7 @@
         "name": "Michael Wilson",
         "positionId": 3,
         "proTeamId": 22,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -1212,7 +1212,7 @@
         "name": "Josh Jacobs",
         "positionId": 2,
         "proTeamId": 9,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
