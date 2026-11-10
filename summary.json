@@ -116,7 +116,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -190,7 +190,7 @@
         "name": "Garrett Wilson",
         "positionId": 3,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -246,7 +246,7 @@
         "name": "Rashid Shaheed",
         "positionId": 3,
         "proTeamId": 26,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 21
       },
       {
@@ -368,7 +368,7 @@
         "name": "Rhamondre Stevenson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 2
       },
       {
@@ -514,7 +514,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -766,8 +766,8 @@
         "name": "George Pickens",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 4
+        "injuryStatus": "QUESTIONABLE",
+        "lineupSlotId": 20
       },
       {
         "id": 4429615,
@@ -783,7 +783,7 @@
         "positionId": 1,
         "proTeamId": 28,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 3916387,
@@ -791,7 +791,7 @@
         "positionId": 1,
         "proTeamId": 33,
         "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 21
       },
       {
         "id": 4569987,
@@ -815,7 +815,7 @@
         "positionId": 3,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4685720,
@@ -823,7 +823,7 @@
         "positionId": 1,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 4711533,
@@ -870,7 +870,7 @@
         "name": "Mike Evans",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -952,7 +952,7 @@
         "name": "KaVontae Turpin",
         "positionId": 3,
         "proTeamId": 6,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -960,7 +960,7 @@
         "name": "Cam Skattebo",
         "positionId": 2,
         "proTeamId": 19,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1074,7 +1074,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1106,7 +1106,7 @@
         "name": "Tyjae Spears",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1438,7 +1438,7 @@
         "name": "Deebo Samuel Sr.",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1521,7 +1521,7 @@
         "positionId": 2,
         "proTeamId": 3,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4431611,
@@ -1529,7 +1529,7 @@
         "positionId": 1,
         "proTeamId": 3,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 0
+        "lineupSlotId": 20
       },
       {
         "id": 3953687,
@@ -1553,7 +1553,7 @@
         "positionId": 1,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 0
       },
       {
         "id": 5123663,
@@ -1601,7 +1601,7 @@
         "positionId": 2,
         "proTeamId": 26,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": -16017,
