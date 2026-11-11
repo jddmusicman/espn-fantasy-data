@@ -20,7 +20,7 @@
         "name": "Puka Nacua",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 4
       },
       {
@@ -116,7 +116,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -328,7 +328,7 @@
         "name": "Amon-Ra St. Brown",
         "positionId": 3,
         "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -368,7 +368,7 @@
         "name": "Rhamondre Stevenson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -660,7 +660,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -775,7 +775,7 @@
         "positionId": 3,
         "proTeamId": 33,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 4
       },
       {
         "id": 4426348,
@@ -799,7 +799,7 @@
         "positionId": 2,
         "proTeamId": 23,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 2
       },
       {
         "id": 3054850,
@@ -815,7 +815,7 @@
         "positionId": 3,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 23
       },
       {
         "id": 4685720,
@@ -847,7 +847,7 @@
         "positionId": 5,
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
+        "lineupSlotId": 20
       },
       {
         "id": 4429086,
@@ -879,7 +879,7 @@
         "positionId": 2,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 4686361,
@@ -887,7 +887,7 @@
         "positionId": 5,
         "proTeamId": 30,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 17
       }
     ]
   },
@@ -1244,7 +1244,7 @@
         "name": "Bhayshul Tuten",
         "positionId": 2,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1308,7 +1308,7 @@
         "name": "Chris Rodriguez Jr.",
         "positionId": 2,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1406,7 +1406,7 @@
         "name": "T.J. Hockenson",
         "positionId": 4,
         "proTeamId": 16,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -1560,7 +1560,7 @@
         "name": "Jared Goff",
         "positionId": 1,
         "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
