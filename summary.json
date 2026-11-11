@@ -20,7 +20,7 @@
         "name": "Puka Nacua",
         "positionId": 3,
         "proTeamId": 14,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -880,6 +880,14 @@
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 2
+      },
+      {
+        "id": 4686361,
+        "name": "Cam Little",
+        "positionId": 5,
+        "proTeamId": 30,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -1142,22 +1150,6 @@
         "lineupSlotId": 4
       },
       {
-        "id": 3912547,
-        "name": "Sam Darnold",
-        "positionId": 1,
-        "proTeamId": 26,
-        "injuryStatus": "OUT",
-        "lineupSlotId": 20
-      },
-      {
-        "id": 4360761,
-        "name": "Michael Wilson",
-        "positionId": 3,
-        "proTeamId": 22,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 21
-      },
-      {
         "id": 4686468,
         "name": "Seth McGowan",
         "positionId": 2,
@@ -1172,6 +1164,22 @@
         "proTeamId": 14,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4685512,
+        "name": "Jadarian Price",
+        "positionId": 2,
+        "proTeamId": 26,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
+      },
+      {
+        "id": 4686422,
+        "name": "Xavier Hutchinson",
+        "positionId": 3,
+        "proTeamId": 34,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
