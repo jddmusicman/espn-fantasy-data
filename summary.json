@@ -238,7 +238,7 @@
         "name": "Tony Pollard",
         "positionId": 2,
         "proTeamId": 10,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -246,7 +246,7 @@
         "name": "Rashid Shaheed",
         "positionId": 3,
         "proTeamId": 26,
-        "injuryStatus": "OUT",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 21
       },
       {
@@ -368,7 +368,7 @@
         "name": "Rhamondre Stevenson",
         "positionId": 2,
         "proTeamId": 17,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -724,7 +724,7 @@
         "name": "Keaton Mitchell",
         "positionId": 2,
         "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -806,7 +806,7 @@
         "name": "Alvin Kamara",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -944,7 +944,7 @@
         "name": "Patrick Mahomes",
         "positionId": 1,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1276,7 +1276,7 @@
         "name": "Xavier Worthy",
         "positionId": 3,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1560,7 +1560,7 @@
         "name": "Jared Goff",
         "positionId": 1,
         "proTeamId": 8,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 0
       },
       {
