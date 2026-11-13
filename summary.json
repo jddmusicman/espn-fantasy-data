@@ -16,14 +16,6 @@
     },
     "players": [
       {
-        "id": 4426515,
-        "name": "Puka Nacua",
-        "positionId": 3,
-        "proTeamId": 14,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3929630,
         "name": "Saquon Barkley",
         "positionId": 2,
@@ -117,7 +109,7 @@
         "positionId": 2,
         "proTeamId": 22,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 2
+        "lineupSlotId": 20
       },
       {
         "id": 5082424,
@@ -148,6 +140,14 @@
         "name": "Audric Estime",
         "positionId": 2,
         "proTeamId": 18,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 2
+      },
+      {
+        "id": 4431431,
+        "name": "Corey Kiner",
+        "positionId": 2,
+        "proTeamId": 17,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       }
