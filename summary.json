@@ -92,7 +92,7 @@
         "name": "Hunter Henry",
         "positionId": 4,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
@@ -1082,7 +1082,7 @@
         "name": "Carnell Tate",
         "positionId": 3,
         "proTeamId": 10,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
