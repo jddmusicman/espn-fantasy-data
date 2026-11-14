@@ -352,7 +352,7 @@
         "name": "Travis Etienne Jr.",
         "positionId": 2,
         "proTeamId": 18,
-        "injuryStatus": "INJURY_RESERVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -724,7 +724,7 @@
         "name": "Keaton Mitchell",
         "positionId": 2,
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
