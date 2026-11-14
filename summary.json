@@ -286,7 +286,7 @@
         "name": "Tyler Goodson",
         "positionId": 2,
         "proTeamId": 6,
-        "injuryStatus": "OUT",
+        "injuryStatus": "INJURY_RESERVE",
         "lineupSlotId": 20
       },
       {
@@ -482,7 +482,7 @@
         "name": "Kenneth Walker III",
         "positionId": 2,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
@@ -514,7 +514,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 23
       },
       {
@@ -692,7 +692,7 @@
         "name": "Pat Freiermuth",
         "positionId": 4,
         "proTeamId": 23,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
