@@ -100,7 +100,7 @@
         "name": "A.J. Brown",
         "positionId": 3,
         "proTeamId": 17,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -190,7 +190,7 @@
         "name": "Garrett Wilson",
         "positionId": 3,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
@@ -270,7 +270,7 @@
         "name": "Geno Smith",
         "positionId": 1,
         "proTeamId": 20,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -330,14 +330,6 @@
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
-      },
-      {
-        "id": 4870808,
-        "name": "Jeremiyah Love",
-        "positionId": 2,
-        "proTeamId": 22,
-        "injuryStatus": "INJURY_RESERVE",
-        "lineupSlotId": 20
       },
       {
         "id": 4595348,
@@ -449,6 +441,14 @@
         "positionId": 16,
         "proTeamId": 7,
         "injuryStatus": null,
+        "lineupSlotId": 20
+      },
+      {
+        "id": -16025,
+        "name": "49ers D/ST",
+        "positionId": 16,
+        "proTeamId": 25,
+        "injuryStatus": null,
         "lineupSlotId": 16
       }
     ]
@@ -490,7 +490,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -855,7 +855,7 @@
         "positionId": 4,
         "proTeamId": 13,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 3117256,
@@ -863,7 +863,7 @@
         "positionId": 4,
         "proTeamId": 34,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 16737,
@@ -878,7 +878,7 @@
         "name": "Woody Marks",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1090,7 +1090,7 @@
         "name": "Drake Maye",
         "positionId": 1,
         "proTeamId": 17,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 0
       },
       {
@@ -1212,7 +1212,7 @@
         "name": "Drake London",
         "positionId": 3,
         "proTeamId": 1,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1351,7 +1351,7 @@
         "positionId": 3,
         "proTeamId": 4,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 4
+        "lineupSlotId": 20
       },
       {
         "id": 3043078,
@@ -1447,7 +1447,7 @@
         "positionId": 3,
         "proTeamId": 25,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 4
       },
       {
         "id": 4241478,
@@ -1462,7 +1462,7 @@
         "name": "Ladd McConkey",
         "positionId": 3,
         "proTeamId": 24,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1576,7 +1576,7 @@
         "name": "Emanuel Wilson",
         "positionId": 2,
         "proTeamId": 26,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
