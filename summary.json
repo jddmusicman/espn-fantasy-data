@@ -692,7 +692,7 @@
         "name": "Pat Freiermuth",
         "positionId": 4,
         "proTeamId": 23,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -878,7 +878,7 @@
         "name": "Woody Marks",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 20
       },
       {
