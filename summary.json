@@ -1090,7 +1090,7 @@
         "name": "Drake Maye",
         "positionId": 1,
         "proTeamId": 17,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 0
       },
       {
@@ -1212,7 +1212,7 @@
         "name": "Drake London",
         "positionId": 3,
         "proTeamId": 1,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 4
       },
       {
