@@ -514,7 +514,7 @@
         "name": "David Montgomery",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -1576,7 +1576,7 @@
         "name": "Emanuel Wilson",
         "positionId": 2,
         "proTeamId": 26,
-        "injuryStatus": "OUT",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
