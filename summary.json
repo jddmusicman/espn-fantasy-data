@@ -882,12 +882,12 @@
         "lineupSlotId": 20
       },
       {
-        "id": 4686361,
-        "name": "Cam Little",
-        "positionId": 5,
-        "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
+        "id": -16034,
+        "name": "Texans D/ST",
+        "positionId": 16,
+        "proTeamId": 34,
+        "injuryStatus": null,
+        "lineupSlotId": 20
       }
     ]
   },
