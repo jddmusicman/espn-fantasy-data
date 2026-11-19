@@ -839,7 +839,7 @@
         "positionId": 16,
         "proTeamId": 26,
         "injuryStatus": null,
-        "lineupSlotId": 16
+        "lineupSlotId": 20
       },
       {
         "id": 3150744,
@@ -847,7 +847,7 @@
         "positionId": 5,
         "proTeamId": 27,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 17
       },
       {
         "id": 4429086,
@@ -887,7 +887,7 @@
         "positionId": 16,
         "proTeamId": 34,
         "injuryStatus": null,
-        "lineupSlotId": 20
+        "lineupSlotId": 16
       }
     ]
   },
@@ -1454,7 +1454,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
