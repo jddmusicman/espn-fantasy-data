@@ -96,14 +96,6 @@
         "lineupSlotId": 20
       },
       {
-        "id": 5082424,
-        "name": "Dominic Zvada",
-        "positionId": 5,
-        "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 17
-      },
-      {
         "id": 2976212,
         "name": "Stefon Diggs",
         "positionId": 3,
@@ -150,6 +142,14 @@
         "proTeamId": 3,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4686361,
+        "name": "Cam Little",
+        "positionId": 5,
+        "proTeamId": 30,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 17
       }
     ]
   },
