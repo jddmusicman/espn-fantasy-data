@@ -270,7 +270,7 @@
         "name": "Geno Smith",
         "positionId": 1,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -294,7 +294,7 @@
         "name": "Isaiah Williams",
         "positionId": 3,
         "proTeamId": 20,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -482,7 +482,7 @@
         "name": "Kenneth Walker III",
         "positionId": 2,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
@@ -1090,7 +1090,7 @@
         "name": "Drake Maye",
         "positionId": 1,
         "proTeamId": 17,
-        "injuryStatus": "DOUBTFUL",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1284,7 +1284,7 @@
         "name": "Dalton Kincaid",
         "positionId": 4,
         "proTeamId": 2,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "DOUBTFUL",
         "lineupSlotId": 20
       },
       {
@@ -1406,7 +1406,7 @@
         "name": "T.J. Hockenson",
         "positionId": 4,
         "proTeamId": 16,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1552,7 +1552,7 @@
         "name": "Isaiah Likely",
         "positionId": 4,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
