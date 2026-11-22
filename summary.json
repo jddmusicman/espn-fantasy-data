@@ -490,7 +490,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 6
       },
       {
@@ -814,7 +814,7 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -1422,7 +1422,7 @@
         "name": "Juwan Johnson",
         "positionId": 4,
         "proTeamId": 18,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -1430,7 +1430,7 @@
         "name": "Matt Gay",
         "positionId": 5,
         "proTeamId": 13,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
