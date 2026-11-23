@@ -20,7 +20,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -724,7 +724,7 @@
         "name": "Keaton Mitchell",
         "positionId": 2,
         "proTeamId": 24,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
@@ -870,7 +870,7 @@
         "name": "Mike Evans",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
