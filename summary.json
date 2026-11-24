@@ -4,15 +4,15 @@
     "teamName": "",
     "owner": "espn26786065",
     "record": {
-      "gamesBack": 3.0,
+      "gamesBack": 2.0,
       "losses": 5,
-      "percentage": 0.4444444444444444,
-      "pointsAgainst": 1153.66,
-      "pointsFor": 1110.32,
+      "percentage": 0.5,
+      "pointsAgainst": 1303.6200000000001,
+      "pointsFor": 1260.62,
       "streakLength": 1,
-      "streakType": "LOSS",
+      "streakType": "WIN",
       "ties": 0,
-      "wins": 4
+      "wins": 5
     },
     "players": [
       {
@@ -159,12 +159,12 @@
     "owner": "ESPNFAN2427922229",
     "record": {
       "gamesBack": 1.0,
-      "losses": 3,
-      "percentage": 0.6666666666666666,
-      "pointsAgainst": 936.48,
-      "pointsFor": 1005.36,
-      "streakLength": 2,
-      "streakType": "WIN",
+      "losses": 4,
+      "percentage": 0.6,
+      "pointsAgainst": 1030.82,
+      "pointsFor": 1074.8600000000001,
+      "streakLength": 1,
+      "streakType": "LOSS",
       "ties": 0,
       "wins": 6
     },
@@ -312,7 +312,7 @@
     "teamName": "",
     "owner": "Hogwild270",
     "record": {
-      "gamesBack": 4.5,
+      "gamesBack": 4.0,
       "losses": 7,
       "percentage": 0.3,
       "pointsAgainst": 1189.48,
@@ -459,11 +459,11 @@
     "owner": "ESPNFAN2955448782",
     "record": {
       "gamesBack": 5.0,
-      "losses": 7,
-      "percentage": 0.2222222222222222,
-      "pointsAgainst": 1167.7799999999997,
-      "pointsFor": 759.1000000000001,
-      "streakLength": 6,
+      "losses": 8,
+      "percentage": 0.2,
+      "pointsAgainst": 1235.5399999999997,
+      "pointsFor": 786.3000000000002,
+      "streakLength": 7,
       "streakType": "LOSS",
       "ties": 0,
       "wins": 2
@@ -604,15 +604,15 @@
     "teamName": "",
     "owner": "kasscopelin",
     "record": {
-      "gamesBack": 3.0,
+      "gamesBack": 2.0,
       "losses": 5,
-      "percentage": 0.4444444444444444,
-      "pointsAgainst": 954.6000000000001,
-      "pointsFor": 1026.0400000000002,
-      "streakLength": 1,
+      "percentage": 0.5,
+      "pointsAgainst": 1024.3600000000001,
+      "pointsFor": 1133.8400000000001,
+      "streakLength": 2,
       "streakType": "WIN",
       "ties": 0,
-      "wins": 4
+      "wins": 5
     },
     "players": [
       {
@@ -743,11 +743,11 @@
     "owner": "ESPNFAN6362993970",
     "record": {
       "gamesBack": 2.0,
-      "losses": 4,
-      "percentage": 0.5555555555555556,
-      "pointsAgainst": 982.6200000000001,
-      "pointsFor": 989.18,
-      "streakLength": 2,
+      "losses": 5,
+      "percentage": 0.5,
+      "pointsAgainst": 1115.7400000000002,
+      "pointsFor": 1087.1399999999999,
+      "streakLength": 3,
       "streakType": "LOSS",
       "ties": 0,
       "wins": 5
@@ -897,12 +897,12 @@
     "owner": "ESPNFAN6285876402",
     "record": {
       "gamesBack": 1.0,
-      "losses": 3,
-      "percentage": 0.6666666666666666,
-      "pointsAgainst": 1000.02,
-      "pointsFor": 1131.7199999999998,
-      "streakLength": 2,
-      "streakType": "WIN",
+      "losses": 4,
+      "percentage": 0.6,
+      "pointsAgainst": 1150.32,
+      "pointsFor": 1281.6799999999998,
+      "streakLength": 1,
+      "streakType": "LOSS",
       "ties": 0,
       "wins": 6
     },
@@ -1042,15 +1042,15 @@
     "teamName": "",
     "owner": "Matt78187",
     "record": {
-      "gamesBack": 4.0,
+      "gamesBack": 3.0,
       "losses": 6,
-      "percentage": 0.3333333333333333,
-      "pointsAgainst": 1105.76,
-      "pointsFor": 986.26,
-      "streakLength": 4,
-      "streakType": "LOSS",
+      "percentage": 0.4,
+      "pointsAgainst": 1203.72,
+      "pointsFor": 1119.38,
+      "streakLength": 1,
+      "streakType": "WIN",
       "ties": 0,
-      "wins": 3
+      "wins": 4
     },
     "players": [
       {
@@ -1114,7 +1114,7 @@
         "name": "Sam LaPorta",
         "positionId": 4,
         "proTeamId": 8,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -1188,15 +1188,15 @@
     "teamName": "",
     "owner": "orbie5150",
     "record": {
-      "gamesBack": 2.0,
+      "gamesBack": 1.0,
       "losses": 4,
-      "percentage": 0.5555555555555556,
-      "pointsAgainst": 1007.8000000000001,
-      "pointsFor": 1004.6200000000001,
+      "percentage": 0.6,
+      "pointsAgainst": 1035.0,
+      "pointsFor": 1072.38,
       "streakLength": 1,
-      "streakType": "LOSS",
+      "streakType": "WIN",
       "ties": 0,
-      "wins": 5
+      "wins": 6
     },
     "players": [
       {
@@ -1299,7 +1299,7 @@
         "id": 3917792,
         "name": "Daniel Jones",
         "positionId": 1,
-        "proTeamId": 11,
+        "proTeamId": 0,
         "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
@@ -1334,15 +1334,15 @@
     "teamName": "",
     "owner": "ESPNfan2474243723",
     "record": {
-      "gamesBack": 2.0,
+      "gamesBack": 1.0,
       "losses": 4,
-      "percentage": 0.5555555555555556,
-      "pointsAgainst": 1073.94,
-      "pointsFor": 1201.2000000000003,
-      "streakLength": 3,
+      "percentage": 0.6,
+      "pointsAgainst": 1143.44,
+      "pointsFor": 1295.5400000000002,
+      "streakLength": 4,
       "streakType": "WIN",
       "ties": 0,
-      "wins": 5
+      "wins": 6
     },
     "players": [
       {
@@ -1481,12 +1481,12 @@
     "owner": "Zachdigby",
     "record": {
       "gamesBack": 0.0,
-      "losses": 2,
-      "percentage": 0.7777777777777778,
-      "pointsAgainst": 959.2800000000001,
-      "pointsFor": 1156.32,
+      "losses": 3,
+      "percentage": 0.7,
+      "pointsAgainst": 1067.0800000000002,
+      "pointsFor": 1226.08,
       "streakLength": 1,
-      "streakType": "WIN",
+      "streakType": "LOSS",
       "ties": 0,
       "wins": 7
     },
