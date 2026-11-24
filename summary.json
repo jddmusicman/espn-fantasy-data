@@ -294,7 +294,7 @@
         "name": "Isaiah Williams",
         "positionId": 3,
         "proTeamId": 20,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -482,7 +482,7 @@
         "name": "Kenneth Walker III",
         "positionId": 2,
         "proTeamId": 12,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -490,7 +490,7 @@
         "name": "Brock Bowers",
         "positionId": 4,
         "proTeamId": 13,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -878,7 +878,7 @@
         "name": "Woody Marks",
         "positionId": 2,
         "proTeamId": 34,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1220,7 +1220,7 @@
         "name": "Josh Jacobs",
         "positionId": 2,
         "proTeamId": 9,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1284,7 +1284,7 @@
         "name": "Dalton Kincaid",
         "positionId": 4,
         "proTeamId": 2,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
