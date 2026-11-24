@@ -148,7 +148,7 @@
         "name": "Cam Little",
         "positionId": 5,
         "proTeamId": 30,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 17
       }
     ]
@@ -554,7 +554,7 @@
         "name": "Rachaad White",
         "positionId": 2,
         "proTeamId": 28,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -814,7 +814,7 @@
         "name": "Jalen Coker",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 23
       },
       {
@@ -912,7 +912,7 @@
         "name": "Kyren Williams",
         "positionId": 2,
         "proTeamId": 14,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -984,7 +984,7 @@
         "name": "Kaden Wetjen",
         "positionId": 3,
         "proTeamId": 23,
-        "injuryStatus": "OUT",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1138,7 +1138,7 @@
         "name": "Seth McGowan",
         "positionId": 2,
         "proTeamId": 11,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1244,7 +1244,7 @@
         "name": "Bhayshul Tuten",
         "positionId": 2,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
