@@ -100,7 +100,7 @@
         "name": "Stefon Diggs",
         "positionId": 3,
         "proTeamId": 28,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -482,7 +482,7 @@
         "name": "Kenneth Walker III",
         "positionId": 2,
         "proTeamId": 12,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 2
       },
       {
@@ -546,7 +546,7 @@
         "name": "J.K. Dobbins",
         "positionId": 2,
         "proTeamId": 7,
-        "injuryStatus": "OUT",
+        "injuryStatus": "SUSPENSION",
         "lineupSlotId": 20
       },
       {
@@ -660,7 +660,7 @@
         "name": "Jakobi Meyers",
         "positionId": 3,
         "proTeamId": 30,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -775,7 +775,7 @@
         "positionId": 3,
         "proTeamId": 33,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 23
       },
       {
         "id": 4426348,
@@ -815,7 +815,7 @@
         "positionId": 3,
         "proTeamId": 29,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 23
+        "lineupSlotId": 20
       },
       {
         "id": 4685720,
@@ -850,14 +850,6 @@
         "lineupSlotId": 17
       },
       {
-        "id": 4429086,
-        "name": "Michael Mayer",
-        "positionId": 4,
-        "proTeamId": 13,
-        "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
-      },
-      {
         "id": 3117256,
         "name": "Dalton Schultz",
         "positionId": 4,
@@ -870,7 +862,7 @@
         "name": "Mike Evans",
         "positionId": 3,
         "proTeamId": 25,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -888,6 +880,14 @@
         "proTeamId": 34,
         "injuryStatus": null,
         "lineupSlotId": 16
+      },
+      {
+        "id": 4360248,
+        "name": "Kyle Pitts Sr.",
+        "positionId": 4,
+        "proTeamId": 1,
+        "injuryStatus": "ACTIVE",
+        "lineupSlotId": 20
       }
     ]
   },
@@ -928,7 +928,7 @@
         "name": "Brock Purdy",
         "positionId": 1,
         "proTeamId": 25,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1000,7 +1000,7 @@
         "name": "Harold Fannin Jr.",
         "positionId": 4,
         "proTeamId": 5,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
@@ -1107,7 +1107,7 @@
         "positionId": 4,
         "proTeamId": 12,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 20
+        "lineupSlotId": 6
       },
       {
         "id": 4430027,
@@ -1115,7 +1115,7 @@
         "positionId": 4,
         "proTeamId": 8,
         "injuryStatus": "ACTIVE",
-        "lineupSlotId": 6
+        "lineupSlotId": 20
       },
       {
         "id": 4371733,
@@ -1358,7 +1358,7 @@
         "name": "Derrick Henry",
         "positionId": 2,
         "proTeamId": 33,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 2
       },
       {
@@ -1512,7 +1512,7 @@
         "name": "Tetairoa McMillan",
         "positionId": 3,
         "proTeamId": 29,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 4
       },
       {
@@ -1552,7 +1552,7 @@
         "name": "Isaiah Likely",
         "positionId": 4,
         "proTeamId": 19,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 23
       },
       {
