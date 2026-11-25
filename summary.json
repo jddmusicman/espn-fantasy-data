@@ -20,7 +20,7 @@
         "name": "Saquon Barkley",
         "positionId": 2,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -546,7 +546,7 @@
         "name": "J.K. Dobbins",
         "positionId": 2,
         "proTeamId": 7,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "OUT",
         "lineupSlotId": 20
       },
       {
@@ -1114,7 +1114,7 @@
         "name": "Sam LaPorta",
         "positionId": 4,
         "proTeamId": 8,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 6
       },
       {
