@@ -1284,7 +1284,7 @@
         "name": "Dallas Goedert",
         "positionId": 4,
         "proTeamId": 21,
-        "injuryStatus": "OUT",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 6
       },
       {
@@ -1300,7 +1300,7 @@
         "name": "Dalton Kincaid",
         "positionId": 4,
         "proTeamId": 2,
-        "injuryStatus": "QUESTIONABLE",
+        "injuryStatus": "ACTIVE",
         "lineupSlotId": 20
       },
       {
@@ -1470,7 +1470,7 @@
         "name": "DeVonta Smith",
         "positionId": 3,
         "proTeamId": 21,
-        "injuryStatus": "ACTIVE",
+        "injuryStatus": "QUESTIONABLE",
         "lineupSlotId": 20
       },
       {
